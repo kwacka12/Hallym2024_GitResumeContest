@@ -4,28 +4,26 @@
 >  - 이름 / 학년 / 학번 / 이메일
 <br>
 
-예)
+예시)
+  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/resume.md
 
-  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/ex_resume.md
 
 *  *  *
   
 * **4학년**
-  - 정웅교 / 45학년 / 45678910 / zzang98gu@gamil.com /
-  - 이력서입니다
-  - https://github.com/zzanggu98/Hallym2024_GitResumeContest 
+  - 
 
   
 * **3학년**
-  - 예) 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/ex_resume.md
+  - 
 
 
 * **2학년**
-  - 예) 곽병일 / 2학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/ex_resume.md
+  - 
 
 
 * **1학년**
-  - 예) 곽병일 / 1학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/ex_resume.md
+  - 
 
 
 *  *  *
