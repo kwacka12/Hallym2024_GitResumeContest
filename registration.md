@@ -11,7 +11,8 @@
 *  *  *
   
 * **4학년**
-  - 정웅교 / 4학년 / 45678910 / zzang98gu@gamil.com /
+  - 정웅교 / 45학년 / 45678910 / zzang98gu@gamil.com /
+  - 이력서입니다
   - https://github.com/zzanggu98/Hallym2024_GitResumeContest 
 
   
