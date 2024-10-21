@@ -11,7 +11,9 @@
 *  *  *
   
 * **4학년**
-  - 예) 곽병일 / 4학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/ex_resume.md
+  - 정웅교 / 45학년 / 45678910 / zzang98gu@gamil.com /
+  - 이력서입니다
+  - https://github.com/zzanggu98/Hallym2024_GitResumeContest 
 
   
 * **3학년**
