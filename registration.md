@@ -1,7 +1,7 @@
 
 ## 이력서 등록장입니다. 형식에 맞추어 등록해주시면 감사드리겠습니다.
 
->  - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / 
+>  - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
 <br>
 
 예시)
