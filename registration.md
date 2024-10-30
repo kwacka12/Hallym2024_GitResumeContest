@@ -1,8 +1,6 @@
 
 ## 이력서 등록장입니다. 형식에 맞추어 등록해주시면 감사드리겠습니다.
 
->  - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
-<br>
 
 예시)
   - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/resume.md
@@ -11,7 +9,7 @@
 *  *  *
   
 * **4학년**
-  - 
+  - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
 
   
 * **3학년**
