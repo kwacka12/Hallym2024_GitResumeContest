@@ -3,7 +3,7 @@
 
 
 예시)
-  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/resume.md
+  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / [https://github.com/kwacka12/resume.md](https://github.com/kwacka12/Hallym2024_GitResumeContest/blob/main/resume.md)
 
 
 *  *  *
