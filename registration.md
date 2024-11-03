@@ -9,7 +9,7 @@
 *  *  *
   
 * **4학년**
- -
+ - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
   
 * **3학년**
  - 운석현 / 3학년 / 20205206 / woonsuck0916@naver.com / https://github.com/seokhyeon0916/seokhyeon0916.git
