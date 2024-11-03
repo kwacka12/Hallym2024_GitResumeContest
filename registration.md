@@ -14,8 +14,8 @@
 
   
 * **3학년**
+  - 강지현 / 3학년 / 20205107 / kangjihyunlo@naver.com / https://github.com/Kjhyun-2
   - 운석현 / 3학년 / 20205206 / woonsuck0916@naver.com / https://github.com/seokhyeon0916/seokhyeon0916.git
-
 
 
 * **2학년**
