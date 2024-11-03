@@ -3,7 +3,7 @@
 
 
 예시)
-  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / https://github.com/kwacka12/resume.md
+  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / [https://github.com/kwacka12/resume.md](https://github.com/kwacka12/Hallym2024_GitResumeContest/blob/main/resume.md)
 
 
 *  *  *
@@ -11,13 +11,16 @@
 * **4학년**
   - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
 
+
   
 * **3학년**
-  - 강지현 / 3학년 / 20205107 / kangjihyunlo@naver.com
+  - 강지현 / 3학년 / 20205107 / kangjihyunlo@naver.com / https://github.com/Kjhyun-2
+  - 운석현 / 3학년 / 20205206 / woonsuck0916@naver.com / https://github.com/seokhyeon0916/seokhyeon0916.git
 
 
 * **2학년**
   - 
+
 
 
 * **1학년**
