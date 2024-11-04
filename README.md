@@ -55,7 +55,7 @@
       - **2)** [registration.md](https://github.com/kwacka12/Hallym2024_GitResumeContest/blob/main/registration.md) 를 수정하여 자신의 이름, 학년/학번, 이메일, resume 주소를 추가하여 수정하여 주시고
       - **3)** 최종적으로 수정된 [registration.md](https://github.com/kwacka12/Hallym2024_GitResumeContest/blob/main/registration.md)에 대한 ``Pull Request / Commit`` 요청을 날리면 됩니다!
       - **4)** 마지막으로 자신의 Github Resume 내용을 PDF로 프린트하여 kwacka12@gmail.com 으로 보내주시기 바랍니다.
-      - **[주의]** 개인정보 보호 및 이력서 포맷 카피등을 방지하기 위하여 이력서는 링크를 걸지 않고 직접 kwacka12@gmail.com 으로 전달해주기 바랍니다.
+      - **[주의]** 이력서의 경우, PDF로 변환하여 직접 kwacka12@gmail.com 으로 전달해주기 바랍니다.
       
       
 
