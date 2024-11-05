@@ -11,6 +11,8 @@
 * **4학년**
   - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
   - 서상혁 / 4학년 / 20196513 / a52675268@naver.com / https://github.com/tiemhub
+  - 박준서 / 4학년 / 20205175 / 0302ser@naver.com / https://github.com/Junseo11
+  - 연예림 / 4학년 / 20205203 / ty5724@naver.com / https://github.com/yinneu
   - 유혜원 / 4학년 / 20205212 / lyuhw11023@gmail.com / https://lyuhw1023.github.io
 
 
