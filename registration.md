@@ -11,7 +11,7 @@
 * **4학년**
   - 남궁찬 / 4학년 / 20195152 / cksdl816@naver.com / https://github.com/namgungcold/namgungcold
   - 서상혁 / 4학년 / 20196513 / a52675268@naver.com / https://github.com/tiemhub
-
+  - 박준영 / 4학년 / 20195171 / mu072468@gmail.com / https://hallymer.github.io/category/about/, https://github.com/hallymer/RESUME
 
   
 * **3학년**
