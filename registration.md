@@ -2,10 +2,6 @@
 ## 이력서 등록장입니다. 형식에 맞추어 등록해주시면 감사드리겠습니다.
 
 
-예시)
-  - 곽병일 / 3학년 / 12345678 / kwacka12@gmail.com / [https://github.com/kwacka12/resume.md](https://github.com/kwacka12/Hallym2024_GitResumeContest/blob/main/resume.md)
-
-
 *  *  *
   
 * **4학년**
@@ -14,8 +10,7 @@
   - 박준서 / 4학년 / 20205175 / 0302ser@naver.com / https://github.com/Junseo11
   - 연예림 / 4학년 / 20205203 / ty5724@naver.com / https://github.com/yinneu
   - 유혜원 / 4학년 / 20205212 / lyuhw11023@gmail.com / https://lyuhw1023.github.io
-
-
+  - 박준영 / 4학년 / 20195171 / mu072468@gmail.com / https://hallymer.github.io/category/about/, https://github.com/hallymer/RESUME
   
 * **3학년**
   - 강지현 / 3학년 / 20205107 / kangjihyunlo@naver.com / https://github.com/Kjhyun-2
@@ -37,4 +32,4 @@
   - 타인의 Github Resume를 사용시, Star 또는 Watch 등을 클릭하여 감사의 마음을 전합시다!!!
   
 *  *  *
-현재 지원자 현황: 00명
+현재 지원자 현황: 9명
